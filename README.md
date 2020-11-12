@@ -7,7 +7,7 @@
  for server side(student-tracker-node-server) and one folder for the React
  app (student-tracker-react-app).
  
- 2) If there arise any we will revise the structure.
+ 2) If there arise any issues we will revise the structure.
  
  3) The Read.me file will summarize the process and further deployment.
  
