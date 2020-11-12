@@ -1,4 +1,4 @@
 [build]
   command = "npm run build"
-  publish="student-tracker-react-app/build"
-  base = "westmids-hackathon-team-decoder"
+  publish="westmids-hackathon-team-decoder/build"
+  base = "student-tracker-react-app"
